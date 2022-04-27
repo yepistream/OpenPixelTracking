@@ -10,3 +10,15 @@ C:\Users\kazim\Desktop\A VR Thin\Image test\ControlledImageTesting\ActualShit\Li
 C:\Users\kazim\Desktop\A VR Thin\Image test\ControlledImageTesting\ActualShit\LibaryConvertedShit\obj\Debug\net5.0\LibaryConvertedShit.dll
 C:\Users\kazim\Desktop\A VR Thin\Image test\ControlledImageTesting\ActualShit\LibaryConvertedShit\obj\Debug\net5.0\ref\LibaryConvertedShit.dll
 C:\Users\kazim\Desktop\A VR Thin\Image test\ControlledImageTesting\ActualShit\LibaryConvertedShit\obj\Debug\net5.0\LibaryConvertedShit.pdb
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\bin\Debug\net5.0\LibaryConvertedShit.deps.json
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\bin\Debug\net5.0\LibaryConvertedShit.dll
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\bin\Debug\net5.0\ref\LibaryConvertedShit.dll
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\bin\Debug\net5.0\LibaryConvertedShit.pdb
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\LibaryConvertedShit.csproj.AssemblyReference.cache
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\LibaryConvertedShit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\LibaryConvertedShit.AssemblyInfoInputs.cache
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\LibaryConvertedShit.AssemblyInfo.cs
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\LibaryConvertedShit.csproj.CoreCompileInputs.cache
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\LibaryConvertedShit.dll
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\ref\LibaryConvertedShit.dll
+C:\Users\kazim\Desktop\OpenPixelTracking\OpenPixelTracking\obj\Debug\net5.0\LibaryConvertedShit.pdb

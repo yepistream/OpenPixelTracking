@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YH5rItOdhkDWmvjsFLvDVv8OMAgXhvFZsx2RHuuySJi+DbQZdXjB5Xd9KbJ8hr3JKv7kAUkxrJJ5ZJBF0KS8TA==",
+  "dgSpecHash": "xCfIfMzcp+gnjnS0Wy4fQrxH8TbzduCBAX4xEMHA46OBHqbyjBzR4tAUL1yIMBz4U41QBGN8CZl383zcYaJ6rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kazim\\Desktop\\A VR Thin\\Image test\\ControlledImageTesting\\ActualShit\\LibaryConvertedShit\\LibaryConvertedShit.csproj",
+  "projectFilePath": "C:\\Users\\kazim\\Desktop\\OpenPixelTracking\\OpenPixelTracking\\LibaryConvertedShit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kazim\\.nuget\\packages\\emgu.cv\\4.5.5.4823\\emgu.cv.4.5.5.4823.nupkg.sha512",
     "C:\\Users\\kazim\\.nuget\\packages\\emgu.cv.bitmap\\4.5.5.4823\\emgu.cv.bitmap.4.5.5.4823.nupkg.sha512",

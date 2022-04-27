@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kazim\\Desktop\\A VR Thin\\Image test\\ControlledImageTesting\\ActualShit\\LibaryConvertedShit\\LibaryConvertedShit.csproj": {}
+    "C:\\Users\\kazim\\Desktop\\OpenPixelTracking\\OpenPixelTracking\\LibaryConvertedShit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kazim\\Desktop\\A VR Thin\\Image test\\ControlledImageTesting\\ActualShit\\LibaryConvertedShit\\LibaryConvertedShit.csproj": {
+    "C:\\Users\\kazim\\Desktop\\OpenPixelTracking\\OpenPixelTracking\\LibaryConvertedShit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kazim\\Desktop\\A VR Thin\\Image test\\ControlledImageTesting\\ActualShit\\LibaryConvertedShit\\LibaryConvertedShit.csproj",
+        "projectUniqueName": "C:\\Users\\kazim\\Desktop\\OpenPixelTracking\\OpenPixelTracking\\LibaryConvertedShit.csproj",
         "projectName": "LibaryConvertedShit",
-        "projectPath": "C:\\Users\\kazim\\Desktop\\A VR Thin\\Image test\\ControlledImageTesting\\ActualShit\\LibaryConvertedShit\\LibaryConvertedShit.csproj",
+        "projectPath": "C:\\Users\\kazim\\Desktop\\OpenPixelTracking\\OpenPixelTracking\\LibaryConvertedShit.csproj",
         "packagesPath": "C:\\Users\\kazim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kazim\\Desktop\\A VR Thin\\Image test\\ControlledImageTesting\\ActualShit\\LibaryConvertedShit\\obj\\",
+        "outputPath": "C:\\Users\\kazim\\Desktop\\OpenPixelTracking\\OpenPixelTracking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

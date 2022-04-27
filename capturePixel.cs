@@ -9,7 +9,7 @@ namespace ActualShitDetection
 {
     public class capturePixel
     {
-        public static float outputX,outputY;
+        public float outputX,outputY;
 
         private static bool isRunning = true;
 
@@ -35,7 +35,7 @@ namespace ActualShitDetection
             calulateDistance(bitage,bitage2);
         }
 
-        static bool trySamePixel(Bitmap img, Color color ,out int[] n, int colorSensitivity = 0){
+        private static bool trySamePixel(Bitmap img, Color color ,out int[] n, int colorSensitivity = 0){
             int[] z = new int[2];
             Color s = new Color(), d = new Color();
             float a,b;
@@ -59,7 +59,7 @@ namespace ActualShitDetection
             return false;
         }
 
-        public static void calulateDistance(Bitmap cpture1, Bitmap cpture2,float debugThreadSleep = 0 ){ 
+        private void calulateDistance(Bitmap cpture1, Bitmap cpture2,float debugThreadSleep = 0 ){ 
                 int[] lastLocc = new int[2], currentLocc = new int[2]; //? ,distanceLocc = new int[2]; Reffer to upper comment
                 if(trySamePixel(cpture1, Color.Black, out lastLocc, 100) && trySamePixel(cpture2,targetColor,out currentLocc, 100)){
                     outputX = currentLocc[0]-lastLocc[0];
@@ -72,15 +72,15 @@ namespace ActualShitDetection
                 }
                 //Thread.Sleep((int)(debugThreadSleep*1000)); //debugThreadSleep is in seceonds, thats why we * 1000 to convert it to secs instead of milisecs.
                 if(isRunning){
-                    Console.Clear();
+                    //Console.Clear();
                     calulateDistance(cpture1,cpture2,debugThreadSleep);
                 }
         }
 
-        public static void firstCapture(){
+        public void firstCapture(){
             do{
-            Console.WriteLine("Press Enter when ready!");
-            Console.ReadLine();
+            /*Console.WriteLine("Press Enter when ready!");
+            Console.ReadLine();*/
             
             bitage = cameraDevice.QueryFrame().ToBitmap();
             //bitage.Save(@"C:\Users\kazim\Desktop\A VR Thin\Image test\ControlledImageTesting\ActualShit\ActualShitDetection\TestImage.png", ImageFormat.Png); Reffer to upper comment
